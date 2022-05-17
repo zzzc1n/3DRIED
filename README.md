@@ -5,10 +5,11 @@ A High-Resolution 3-D Millimeter-Wave Radar Dataset Dedicated to Imaging and Eva
 ## Dataset download link
 ### 3DRIED can be downloaded from 
 1. Baidu Cloud:
-The files can be downloaded from URL: [Baidu Cloud](https://pan.baidu.com/s/1ixH5y72T34mX_Zjz_8e-NA)   
+The files can be downloaded from URL: https://pan.baidu.com/s/1ixH5y72T34mX_Zjz_8e-NA
 Extraction code: ***t186***   
 2. Google Drive (part):
-Google Drive Link: [3DRIED](https://drive.google.com/drive/folders/1uAGWl5MaZvJ4tQD80L7e2vEhXynUmUpq?usp=sharing)
+Google Drive Link: https://drive.google.com/drive/folders/1uAGWl5MaZvJ4tQD80L7e2vEhXynUmUpq?usp=sharing
+
 If you have any problem, please contact me by email: zhouzichen_work@163.com or 202022010839@std.uestc.edu.cn    
 In addition, detailed data acquisition process can refer to the paper [3DRIED: A High-Resolution 3-D Millimeter-Wave Radar Dataset Dedicated to Imaging and Evaluation](https://www.mdpi.com/2072-4292/13/17/3366)
 ## Citation
